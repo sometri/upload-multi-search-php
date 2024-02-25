@@ -1,0 +1,1 @@
+TextFree is a mobile application and web service that allows users to send and receive text messages, as well as make and receive VoIP phone calls, for free over the internet. The service costs nothing because it is supported by ads, but users have the option of paying for an ad-free version with enhanced features. Wikipedia Sometri

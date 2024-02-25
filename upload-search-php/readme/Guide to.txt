@@ -1,0 +1,12 @@
+Guide to:
+-upload a file.txt 
+	with checking a duplication 
+	and store the uploaded text files
+-input words in the textbox 
+	with checking a duplication
+	and store them on the table
+-search by a keyword from the database table
+-use the php code
+-use the JavaScript code
+-create the database and table
+-use IDE: VS Code 
